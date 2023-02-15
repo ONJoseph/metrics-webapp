@@ -31,8 +31,7 @@
 # 📖 [Metrics-webapp] <a name="about-project"></a>
 
 > Hi!
-**[Metrics-webapp]** is a single webpage created with React and Redux that allow users to get information about Covid cases by Continents. This webapp uses corona.lmao.ninja Api. Re-creating this website you will see how to give some functionality to your sections and make your website
-user-interactive.
+**[Metrics-webapp]** is a single webpage created with React and Redux that allow users to get information about Covid cases by Continents. This webapp uses corona.lmao.ninja Api.
 
 ![screenshot](./metrics_app.png)
 
