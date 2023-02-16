@@ -14,6 +14,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 Project Documentation](#Project-Documentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -57,6 +58,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://onjoseph.github.io/metrics-webapp/)
+
+- [Project Documentation Video Link](https://www.loom.com/share/c8be2c480f444053b6f3f8eee9688f1a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
